@@ -1,2 +1,2 @@
 # Haga-Sino
-Andres Arismendi
+Andres Arismendy
